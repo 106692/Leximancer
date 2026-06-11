@@ -1,0 +1,30 @@
+-----BEGIN LEXIMANCER LICENSE OVERVIEW-----
+
+-----END LEXIMANCER LICENSE OVERVIEW-----
+
+-----BEGIN LEXIMANCER LICENSE JWT-----
+eyJhbGciOiJFUzI1NiJ9.eyJ2bWluIjoiNS4wMC4zMCIsImF1ZCI6ImxleGltYW5jZXItZGVza3RvcCIsInN1YiI6IklUQ1MuRXh0ZXJuYWxAdXRzLmVkdS5hdSIsImxpY2Vuc2UtY2xhc3MiOiJhY2FkZW1pYyIsImlzcyI6ImxleGF1dGg6QGxleGltYW5jZXIiLCJ1c2VyLWVtYWlsIjoiSVRDUy5FeHRlcm5hbEB1dHMuZWR1LmF1IiwidXNlci1uYW1lIjoiVW5pdmVyc2l0eSBvZiBUZWNobm9sb2d5IFN5ZG5leSBCdXNpbmVzcyBTY2hvb2wgIiwiZXhwIjoxODExNDAyODA3LCJ1c2VyLWlkIjoiSVRDUy5FeHRlcm5hbEB1dHMuZWR1LmF1IiwiZGF0ZS1lbmQiOjE4MTE0MDI1NDgsImp0aSI6IlUxWlNSRlY1TlVabFNGSnNZMjAxYUdKRlFqRmtTRTExV2xkU01VeHRSakZtUkVVelRucHJlRTU2VlhwT2FtYzkiLCJuYmYiOjE3NzkxNzUzNDgsImdyb3VwLW5hbWUiOiJVbml2ZXJzaXR5IG9mIFRlY2hub2xvZ3kgU3lkbmV5IiwiZGF0ZS1zdGFydCI6MTc3OTE3NTM0OCwidHJpYWwiOmZhbHNlLCJwbXQiOlsiZGVza3RvcCJdLCJpYXQiOjE3NzkxNzUzNjh9.MEUCIFIuhLUeGPPv-3mS2LbJMlKk_c0B283fQcS1r7LhpuY_AiEA8aDueuXDdKm3AUsFRjqnm_ToDl3DaG_EOZFMhLRdI9M
+-----END LEXIMANCER LICENSE JWT-----
+
+-----BEGIN LEXIMANCER LICENSE DETAILS-----
+{
+  "vmin" : "5.00.30",
+  "aud" : "leximancer-desktop",
+  "sub" : "ITCS.External@uts.edu.au",
+  "license-class" : "academic",
+  "iss" : "lexauth:@leximancer",
+  "user-email" : "ITCS.External@uts.edu.au",
+  "user-name" : "University of Technology Sydney Business School ",
+  "exp" : 1811402807,
+  "user-id" : "ITCS.External@uts.edu.au",
+  "date-end" : "2027-05-27T07:22:28.000Z",
+  "jti" : "U1ZSRFV5NUZlSFJsY201aGJFQjFkSE11WldSMUxtRjFmREUzTnpreE56VXpOamc9",
+  "nbf" : 1779175348,
+  "group-name" : "University of Technology Sydney",
+  "date-start" : "2026-05-19T07:22:28.000Z",
+  "trial" : false,
+  "pmt" : [ "desktop" ],
+  "iat" : 1779175368
+}
+-----END LEXIMANCER LICENSE DETAILS-----
+
